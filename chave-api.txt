@@ -1,0 +1,4 @@
+AIzaSyAX0Hc5NTZcAX0_cP049-6ysd7MJzWMgCw
+olive - K0oyy6NTLelEEct3
+
+mongodb+srv://olive:K0oyy6NTLelEEct3@cluster0.vynu3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
